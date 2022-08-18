@@ -6,6 +6,10 @@ iOS16 Live Activities Feature From WWDC 2022
 Push 来开始Live Activities 目前测试发现 虽然会拿到Token 但是会发送失败 error 是 `Device Token not for Topic`
 如果有什么后续更新 会及时补充，我是怀疑是push type 是不是会增加一种？(猜测)
 
+Demo 视频
+
+![simulator_screenshot_1BE7D6F3-9D08-499F-A190-B01A762C09CE](https://github.com/jerryliurui/Live-Activities-Demo/blob/main/RPReplay_Final1660290754.MP4)
+
 Demo 截图
 
 ![simulator_screenshot_1BE7D6F3-9D08-499F-A190-B01A762C09CE](https://user-images.githubusercontent.com/6234801/185403960-9bcbe5c9-3b70-43ee-99c2-8500a64edb6a.png)
