@@ -12,8 +12,7 @@ Push 来开始Live Activities 目前测试发现 虽然会拿到Token 但是会�
 ![截屏2022-08-18 21 26 13](https://user-images.githubusercontent.com/6234801/185406411-e2fda553-a0a1-45d3-94b3-9fc1d2f261d2.png)
 
 Demo 截图
-
-![simulator_screenshot_1BE7D6F3-9D08-499F-A190-B01A762C09CE](https://user-images.githubusercontent.com/6234801/185403960-9bcbe5c9-3b70-43ee-99c2-8500a64edb6a.png)
+![截屏2022-08-18 21 27 22](https://user-images.githubusercontent.com/6234801/185406663-53ead682-bbd8-49fc-8e67-7edfd9bf1189.png)
 
 Demo 视频(有点大好像 但是演示的比较全~)
 
