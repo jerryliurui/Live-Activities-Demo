@@ -16,9 +16,9 @@ Demo 截图
 
 Demo 视频(有点大好像 但是演示的比较全~)
 
-![simulator_screenshot_1BE7D6F3-9D08-499F-A190-B01A762C09CE](https://github.com/jerryliurui/Live-Activities-Demo/blob/main/RPReplay_Final1660290754.MP4)
+![截屏2022-08-18 21 27 22](https://user-images.githubusercontent.com/6234801/185406663-53ead682-bbd8-49fc-8e67-7edfd9bf1189.png)
 
-PS
-iOS16 beta 6 真机无法编译过 怀疑是真机先把ActivityKit移除了？ 因为目前的消息是iOS16 第一版不会放出这个功能 可能会在16.1 或者之后的版本放出~
+9.15更新
+Xcode 14.1 Beta 更新了ActivityKit 并可以适配Dynamic Island
 
 
