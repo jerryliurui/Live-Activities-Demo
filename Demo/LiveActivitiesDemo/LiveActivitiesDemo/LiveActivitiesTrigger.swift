@@ -8,6 +8,7 @@
 import Foundation
 import ActivityKit
 
+@available(iOSApplicationExtension 16.1, *)
 public class LiveActivitiesTrigger {
     
     //我们可以开启多个Live 比如每一场比赛都是一个Live实例 可以通过ID来对应保存一个比赛ID
@@ -29,6 +30,7 @@ public class LiveActivitiesTrigger {
         
         do {
             self.statusActivity = try Activity<FIFAActivityAttributes>.request(attributes: attribute, contentState: startState, pushType: nil)
+            print("开启Live Activities 成功 \(String(describing: self.statusActivity?.id))")
         } catch let e {
             print("开启Live Activities 失败，原因:\(e.localizedDescription)")
         }
@@ -81,6 +83,8 @@ public class LiveActivitiesTrigger {
             let updateState = FIFAActivityAttributes.ContentState(estimatedEndTime: Date().addingTimeInterval(80 * 60), homeScore: 1, guestScore: 0, halfInfo: "上半场")
             
             await self.statusActivity?.update(using: updateState)
+            
+            print("更新Live Activities 成功 \(String(describing: self.statusActivity?.id))")
         }
     }
     
