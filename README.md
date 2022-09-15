@@ -16,9 +16,10 @@ Push 来开始Live Activities 目前测试发现 虽然会拿到Token 但是会�
 Demo 截图
 ![截屏2022-08-18 21 27 22](https://user-images.githubusercontent.com/6234801/185406663-53ead682-bbd8-49fc-8e67-7edfd9bf1189.png)
 
+
 Demo 视频(有点大好像 但是演示的比较全~)
 
-![截屏2022-08-18 21 27 22]([https://user-images.githubusercontent.com/6234801/185406663-53ead682-bbd8-49fc-8e67-7edfd9bf1189.png](https://github.com/jerryliurui/Live-Activities-Demo/blob/main/DynamicIsland.gif)
+![截屏2022-08-18 21 27 22](https://github.com/jerryliurui/Live-Activities-Demo/blob/main/DynamicIsland.gif)
 
 9.15更新
 Xcode 14.1 Beta 更新了ActivityKit 并可以适配Dynamic Island
